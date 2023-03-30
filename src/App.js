@@ -3,7 +3,7 @@ import Homepage from "./Home/Homepage";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App font-Montserrat">
       <Router>
           <Routes>
             <Route path="/" element={<Homepage />} />            
