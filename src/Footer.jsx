@@ -16,14 +16,13 @@ const Footer = () => {
 
         <div className='flex flex-col space-y-3'>
           <p className='font-semibold'>Solutions</p>
-          <p>Empower Jobs</p>
+          <p>Shepherd Jobs</p>
           <p>CV Builder</p>
           <p>Consulting Marketplace</p>
-          <p>#TheMovement</p>
         </div>
       
         <div className='flex flex-col space-y-3'>
-          <p className='font-semibold'>Empower Limited</p>
+          <p className='font-semibold'>Shepherd Consultancy Limited</p>
           <p>Mission Vision Values</p>
           <p>Team</p>
           <p>News</p>

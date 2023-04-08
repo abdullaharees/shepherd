@@ -30,7 +30,7 @@ const Footerfoot = () => {
 
             <div className='flex text-center mt-3'>
                 <p className='text-[#494949] text-[0.6rem] xl:text-sm mr-1 text-center'>
-                    © 2023 All rights reserved by Empower Limited. Designed & Developed by Moweb Limited
+                    © 2023 All rights reserved by Shepherd Consultancy Limited. Designed & Developed by Abdulla Harees
                 </p>
             </div>
 

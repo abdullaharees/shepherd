@@ -14,14 +14,14 @@ const Homepage = () => {
   return (
     <div>
       <Navbar />
-      <Slidertop />
-      <div className="flex justify-center align-center font-Montserrat mt-[6rem] text-[1.3rem]">
+      <Bodyhome />
+      {/* <Slidertop /> */}
+      {/* <div className="flex justify-center align-center font-Montserrat mt-[6rem] text-[1.3rem]">
         Our Clients
       </div>
-      <Sliderclients />
+      <Sliderclients /> */}
       <Jobhome />
       <Serviceshome />
-      <Newpostshome />
       <Footer />
       <Footerfoot />
     </div>

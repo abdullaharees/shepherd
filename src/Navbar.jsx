@@ -12,7 +12,7 @@ import homebg from "./pictures/homebg.jpg";
 const Navbar = () => {
 const [nav, setNav] = useState(false)
   return (
-    <div className='w-full bg-white'>
+    <div className='w-full bg-white fixed top-0 z-[1000]'>
         <div className='flex justify-between w-full font-Montserrat'>
 
             {/* Left Side */}
@@ -27,7 +27,7 @@ const [nav, setNav] = useState(false)
                     <div className='mr-[3rem] mt-2.5 ml-10'>
                         <p className=' cursor-pointer hover:text-[cyan]
                         hover: ease-linear transition-all duration-150'>
-                        Empower Jobs</p>
+                        Shepherd Jobs</p>
                     </div> 
 
                     <div className=' mr-[3rem] mt-2.5 '>
@@ -47,7 +47,7 @@ const [nav, setNav] = useState(false)
                 <div className="flex  w-full justify-end mt-[1.5rem]">
 
                       
-
+{/* 
                     <div className='mr-[3rem] mt-1 '>
                         <p className=' cursor-pointer hover:text-[cyan]
                         hover: ease-linear transition-all duration-150'>
@@ -58,7 +58,7 @@ const [nav, setNav] = useState(false)
                         <p className=' cursor-pointer hover:text-[cyan]
                         hover: ease-linear transition-all duration-150'>
                         Privacy Policy</p>
-                    </div>
+                    </div> */}
 
                     <Link to="/">
                             <div className="flex justify-end z-10

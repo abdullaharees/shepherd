@@ -38,7 +38,7 @@ const Jobhomecomponentthree = () => {
         <div className='flex justify-between mt-8'>
             <div className='mt-5 py-2 px-3 text-[1rem] bg-[white] rounded-md text-black text-center cursor-pointer
                                     shadow-[rgba(0,_0,_0,_0.18)_0px_2px_5px] border-[1px] border-[black]
-                                    hover:shadow-lg hover:text-[white] hover:border-[white] hover:border-1 border-1 hover:bg-black ease-linear transition-all duration-150'>
+                                    hover:shadow-lg hover:text-[white] hover:border-[black] hover:border-1 border-1 hover:bg-black ease-linear transition-all duration-150'>
                 View Detail
             </div>
             <div className='flex mt-6 mr-5'>
