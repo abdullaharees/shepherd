@@ -22,15 +22,14 @@ const Footerfoot = () => {
         <div className='flex justify-center  mt-2.5 space-x-[8rem] mb-5'>
             <div>
                     <Link to='/'>
-                        <img className='w-[3rem] lg:w-[3rem] mb-1
-                        hover:scale-110 ease-linear transition-all duration-150
-                        ' src={Mainlogo} alt="Company Logo" />
+                    <p className='text-3xl font-extrabold hover:scale-105 ease-linear transition-all duration-150 mb-3'> MIKEY EQUIPMENTS </p>
+
                     </Link>
             </div>
 
-            <div className='flex text-center mt-3'>
+            <div className='flex text-center mt-2'>
                 <p className='text-[#494949] text-[0.6rem] xl:text-sm mr-1 text-center'>
-                    © 2023 All rights reserved by Shepherd Consultancy Limited. Designed & Developed by Abdulla Harees
+                    © 2023 All rights reserved by Mikey Equipments Limited. Designed & Developed by Anas
                 </p>
             </div>
 

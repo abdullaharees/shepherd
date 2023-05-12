@@ -2,26 +2,16 @@ import React from 'react'
 import Footer from '../Footer'
 import Navbar from '../Navbar'
 import Bodyhome from './Bodyhome'
-import Slidertop from './Slidertop'
-import Sliderclients from './Sliderclients'
-import Jobhome from './Jobhome'
-import Serviceshome from './Serviceshome'
-import Newpostshome from './Newpostshome'
-import Pplsay from './Pplsay'
+
 import Footerfoot from './Footerfoot'
+import Homeitems from './Homeitems'
 
 const Homepage = () => {
   return (
     <div>
       <Navbar />
       <Bodyhome />
-      {/* <Slidertop /> */}
-      {/* <div className="flex justify-center align-center font-Montserrat mt-[6rem] text-[1.3rem]">
-        Our Clients
-      </div>
-      <Sliderclients /> */}
-      <Jobhome />
-      <Serviceshome />
+      <Homeitems />
       <Footer />
       <Footerfoot />
     </div>

@@ -5,24 +5,27 @@ const Footer = () => {
     <div className='flex justify-center mt-10 mb-5'>    
       <div className='flex w-[85%] justify-between'>
         <div className='flex flex-col space-y-3'>
-          <p className='font-semibold'>Services</p>
-          <p>Talent</p>
-          <p>Advisory</p>
-          <p>Youth</p>
-          <p>Coaching</p>
-          <p>Inspire</p>
-          <p>Insight</p>
+          <p className='font-semibold'>About us</p>
+          <p>Services</p>
+          <p>Projects</p>
+          <p>Our Team</p>
+          <p>Contact Us</p>
+          <p>Blog</p>
+          <p>Testimonials</p>
+          <p>FAQ</p>
         </div>
 
         <div className='flex flex-col space-y-3'>
-          <p className='font-semibold'>Solutions</p>
-          <p>Shepherd Jobs</p>
-          <p>CV Builder</p>
-          <p>Consulting Marketplace</p>
+          <p className='font-semibold'>Contact Information</p>
+          <p>Best Camping Company 2019</p>
+          <p>Kuwait Salmiya Block 12 Nasser Al Bader Street</p>
+          <p>5353 Road Avenue</p>
+          <p>99 4525 60</p>
+
         </div>
       
         <div className='flex flex-col space-y-3'>
-          <p className='font-semibold'>Shepherd Consultancy Limited</p>
+          <p className='font-semibold'>Mikey Equipments Limited</p>
           <p>Mission Vision Values</p>
           <p>Team</p>
           <p>News</p>
